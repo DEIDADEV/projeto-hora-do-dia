@@ -1,2 +1,1 @@
-# projeto-hora-do-dia
- Projeto na qual mostra na tela qual a hora atual.
+Link para acessar o site do projeto: https://deidadev.github.io/projeto-hora-do-dia/
