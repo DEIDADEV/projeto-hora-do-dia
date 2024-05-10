@@ -2,19 +2,14 @@
 
 @media screen and (min-width: 0px) and (max-width: 768px) { /* PARA TELAS MENORES */
 
-    div#area-total {
-        width: 80vw;
-        height: 300px;
-        
+    img#imagem {
+        width: 70%;
+        height: 100%;
     }
 
-}
-
-@media screen and (min-width: 768px) and (max-width: 992px) { /*PARA TABLET*/
-
-    div#area-total {
-        width: 80vw;
-        height: 300px;
+    section#area-total {
+        width: 70%;
+        height: 100%;
     }
 
 }
