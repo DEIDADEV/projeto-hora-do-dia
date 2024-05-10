@@ -3,12 +3,12 @@
 @media screen and (min-width: 0px) and (max-width: 768px) { /* PARA TELAS MENORES */
 
     img#imagem {
-        width: 70%;
+        width: 50%;
         height: 100%;
     }
 
     section#area-total {
-        width: 70%;
+        width: 50%;
         height: 100%;
     }
 
